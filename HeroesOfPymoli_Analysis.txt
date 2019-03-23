@@ -1,0 +1,6 @@
+Heroes of Pymoli (Analytical Observations)
+1.	84% of the games are Male players while 14 percent are Female players.
+2.	Average purchase value of items purchased by Female player is more than the Male players.
+3.	Players aged 20-24 constitute to 44% of the total players, followed by the age group of 15-19.
+4.	Lisosia93, Idastidru52 and Chamjask73 are the top 3 Spenders on additional item purchases.
+5.	Oathbreaker, Last Hope of the Breaking Storm and Fiery Glass Crusader are the most popular and most profitable items purchased by the gamers.
